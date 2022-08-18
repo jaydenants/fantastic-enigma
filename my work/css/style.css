@@ -1,0 +1,18 @@
+h2{
+    color:white;
+    background-color:black;
+    font-size:18px;
+}
+p{
+    color:white;
+    background-color:darkgray;
+    font-size:18px;
+}
+blockquote{
+    color:white;
+    background-color:black;
+    font-size:22px;
+}
+#one{
+    font: size 14px;
+}
